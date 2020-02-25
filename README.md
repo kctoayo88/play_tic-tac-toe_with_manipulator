@@ -1,4 +1,4 @@
-# play_tic-tac-toe_with_manipulator
+# Play_Tic-tac-toe_With_Manipulator
 Play tic-tac-toe game with ABB robotic arm.
 
 ## Overview
