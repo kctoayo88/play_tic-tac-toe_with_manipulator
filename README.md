@@ -1,4 +1,4 @@
-# play_tic-tac-toe_with_manipulator
+# Play_Tic-tac-toe_With_Manipulator
 Play tic-tac-toe game with ABB robotic arm.
 
 ## Overview
@@ -6,3 +6,5 @@ Play tic-tac-toe game with ABB robotic arm.
 This project implements play tic-tac-toe game with ABB IRB 120 robotic arm.
 We complete this project together in ARAA course.
 
+## UI
+![UI](readme/UI.png)
