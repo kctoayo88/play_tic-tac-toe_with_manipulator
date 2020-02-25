@@ -6,5 +6,5 @@ Play tic-tac-toe game with ABB robotic arm.
 This project implements play tic-tac-toe game with ABB IRB 120 robotic arm.
 We complete this project together in ARAA course.
 
-## UI
 ![UI](readme/UI.png)
+![play](readme/play.png)
