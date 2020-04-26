@@ -8,3 +8,8 @@ We complete this project together in ARAA course.
 
 ![UI](readme/UI.png)
 ![play](readme/play.png)
+
+## Reference
+
+[1] Thank [Chien-Yu Lin](https://github.com/cy20lin) for Tic-Tac-Toe algorithm.  
+[2] Thank [NTUT ARAA course/ISL Lab](http://www.isl.ee.ntut.edu.tw/) for manipulator API and introduction.
